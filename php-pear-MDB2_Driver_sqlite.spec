@@ -5,7 +5,7 @@
 %define		_pearname	MDB2_Driver_sqlite
 
 Summary:	%{_pearname} - sqlite MDB2 driver
-Summary(pl.UTF-8):   %{_pearname} - sterownik sqlite dla MDB2
+Summary(pl.UTF-8):	%{_pearname} - sterownik sqlite dla MDB2
 Name:		php-pear-%{_pearname}
 Version:	1.2.1
 Release:	2
