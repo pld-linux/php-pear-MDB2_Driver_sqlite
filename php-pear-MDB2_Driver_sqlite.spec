@@ -2,7 +2,6 @@
 %define		_pearname	MDB2_Driver_sqlite
 %define		subver	b4
 %define		rel		1
-%include	/usr/lib/rpm/macros.php
 Summary:	%{_pearname} - sqlite MDB2 driver
 Summary(pl.UTF-8):	%{_pearname} - sterownik sqlite dla MDB2
 Name:		php-pear-%{_pearname}
